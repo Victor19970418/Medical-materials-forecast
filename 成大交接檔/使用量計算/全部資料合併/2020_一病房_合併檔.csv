@@ -1,0 +1,111 @@
+﻿,庫房,料號,品名,數量,帳務日期,週,工作日
+0,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-01-08,2,True
+1,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-01-20,4,True
+2,DLN1,K80004044,Push Button Blood Collection,1.0,2020-01-07,2,True
+3,DLN1,K80004044,Push Button Blood Collection,1.0,2020-01-07,2,True
+4,DLN1,K80004044,Push Button Blood Collection,1.0,2020-01-07,2,True
+5,DLN1,K80004044,Push Button Blood Collection,1.0,2020-01-14,3,True
+6,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-01-30,5,False
+7,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-01-31,5,False
+8,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-02-03,6,True
+9,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-02-27,9,True
+10,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-02-19,8,True
+11,DLN1,C13931457,安全注射器回拉式5ML,0.0,2020-02-19,8,True
+12,DLN1,K80004044,Push Button Blood Collection,2.0,2020-02-07,6,True
+13,DLN1,K80004044,Push Button Blood Collection,1.0,2020-02-10,7,True
+14,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-03-02,10,True
+15,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-03-11,11,True
+16,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-03-16,12,True
+17,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-03-27,13,True
+18,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-03-30,14,True
+19,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-04-14,16,True
+20,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-04-23,17,True
+21,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-04-01,14,True
+22,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-04-22,17,True
+23,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-04-24,17,True
+24,DLN1,K80004044,Push Button Blood Collection,1.0,2020-04-07,15,True
+25,DLN1,K80004044,Push Button Blood Collection,1.0,2020-04-14,16,True
+26,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-05-11,20,True
+27,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-05-13,20,True
+28,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-05-22,21,True
+29,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+30,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+31,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+32,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+33,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+34,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+35,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+36,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+37,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+38,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+39,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+40,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+41,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+42,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+43,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+44,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+45,DLN1,K80004044,Push Button Blood Collection,2.0,2020-05-05,19,False
+46,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-05,19,False
+47,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-12,20,True
+48,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-12,20,True
+49,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-12,20,True
+50,DLN1,K80004044,Push Button Blood Collection,1.0,2020-05-12,20,True
+51,DLN1,K80004044,Push Button Blood Collection,2.0,2020-05-21,21,True
+52,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-06-19,25,True
+53,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-06-03,23,True
+54,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-06-15,25,True
+55,DLN1,K80004044,Push Button Blood Collection,1.0,2020-06-02,23,True
+56,DLN1,K80004044,Push Button Blood Collection,1.0,2020-06-02,23,True
+57,DLN1,K80004044,Push Button Blood Collection,1.0,2020-06-02,23,True
+58,DLN1,K80004044,Push Button Blood Collection,1.0,2020-06-02,23,True
+59,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-07-15,29,True
+60,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-07-17,29,True
+61,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-07-28,31,True
+62,DLN1,C13931431,安全注射器回拉式3ml,1.0,2020-07-06,28,True
+63,DLN1,C13931431,安全注射器回拉式3ml,1.0,2020-07-28,31,True
+64,DLN1,C13931431,安全注射器回拉式3ml,1.0,2020-07-29,31,True
+65,DLN1,K80004044,Push Button Blood Collection,2.0,2020-07-07,28,True
+66,DLN1,K80004044,Push Button Blood Collection,1.0,2020-07-07,28,True
+67,DLN1,K80004044,Push Button Blood Collection,1.0,2020-07-07,28,True
+68,DLN1,K80004044,Push Button Blood Collection,2.0,2020-07-07,28,True
+69,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-08-03,32,True
+70,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-08-05,32,True
+71,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-08-14,33,True
+72,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-08-17,34,True
+73,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-08-26,35,True
+74,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-08-03,32,True
+75,DLN1,C13931431,安全注射器回拉式3ml,0.0,2020-08-17,34,True
+76,DLN1,K80004044,Push Button Blood Collection,2.0,2020-08-11,33,True
+77,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-09-02,36,True
+78,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-09-03,36,True
+79,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-09-09,37,True
+80,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-09-11,37,True
+81,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-09-28,40,True
+82,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-09-16,38,True
+83,DLN1,C13931431,安全注射器回拉式3ml,0.0,2020-09-28,40,True
+84,DLN1,K80004044,Push Button Blood Collection,1.0,2020-09-01,36,True
+85,DLN1,K80004044,Push Button Blood Collection,1.0,2020-09-03,36,True
+86,DLN1,K80004044,Push Button Blood Collection,1.0,2020-09-24,39,True
+87,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-10-08,41,False
+88,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-10-19,43,True
+89,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-10-28,44,True
+90,DLN1,A00120067,5cc 塑膠注射空針,1.0,2020-10-07,41,False
+91,DLN1,K80004044,Push Button Blood Collection,1.0,2020-10-06,41,False
+92,DLN1,K80004044,Push Button Blood Collection,1.0,2020-10-06,41,False
+93,DLN1,K80004044,Push Button Blood Collection,1.0,2020-10-06,41,False
+94,DLN1,A00120025,2.5-3cc PVC 注射空針,0.0,2020-11-06,45,True
+95,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-11-06,45,True
+96,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-11-18,47,True
+97,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-03,45,True
+98,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-03,45,True
+99,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-03,45,True
+100,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-03,45,True
+101,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-03,45,True
+102,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-04,45,True
+103,DLN1,K80004044,Push Button Blood Collection,1.0,2020-11-12,46,True
+104,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-12-09,50,True
+105,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-12-21,52,True
+106,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-12-21,52,True
+107,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2020-12-30,53,True
+108,DLN1,C13931431,安全注射器回拉式3ml,1.0,2020-12-01,49,True
+109,DLN1,K80004044,Push Button Blood Collection,2.0,2020-12-01,49,True

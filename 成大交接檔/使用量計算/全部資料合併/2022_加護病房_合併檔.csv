@@ -1,0 +1,48 @@
+﻿,Unnamed: 0,庫房,料號,品名,數量,帳務日期,日期,計價,工作日,週
+0,0,DLN1,A00120025,2.5-3cc PVC 注射空針,0.0,2022-12-28,202212,T-不計價,True,52
+1,1,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-01-03,202201,T-不計價,False,1
+2,2,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-01-17,202201,T-不計價,True,3
+3,3,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-01-28,202201,T-不計價,True,4
+4,4,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-02-14,202202,T-不計價,True,7
+5,5,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-02-16,202202,T-不計價,True,7
+6,6,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-02-25,202202,T-不計價,True,8
+7,7,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-03-25,202203,T-不計價,True,12
+8,8,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-04-13,202204,T-不計價,True,15
+9,9,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-04-20,202204,T-不計價,True,16
+10,10,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-04-22,202204,T-不計價,True,16
+11,11,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-05-09,202205,T-不計價,True,19
+12,12,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-05-11,202205,T-不計價,True,19
+13,13,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-06-06,202206,T-不計價,True,23
+14,14,DLN1,A00120033,2.5-3cc PVC 注射空針,1.0,2022-12-28,202212,T-不計價,True,52
+15,15,DLN1,A00120059,5cc塑膠注射空針,1.0,2022-12-07,202212,T-不計價,True,49
+16,16,DLN1,A00120067,5cc 塑膠注射空針,1.0,2022-09-14,202209,T-不計價,True,37
+17,17,DLN1,C13941807,抽痰連接管,1.0,2022-07-22,202207,T-不計價,True,29
+18,18,DLN1,K80004044,Push Button Blood Collection,1.0,2022-01-18,202201,T-不計價,True,3
+19,19,DLN1,K80004044,Push Button Blood Collection,1.0,2022-01-18,202201,T-不計價,True,3
+20,20,DLN1,K80004044,Push Button Blood Collection,1.0,2022-01-18,202201,T-不計價,True,3
+21,21,DLN1,K80004044,Push Button Blood Collection,1.0,2022-02-15,202202,T-不計價,True,7
+22,22,DLN1,K80004044,Push Button Blood Collection,2.0,2022-02-15,202202,T-不計價,True,7
+23,23,DLN1,K80004044,Push Button Blood Collection,1.0,2022-03-08,202203,T-不計價,True,10
+24,24,DLN1,K80004044,Push Button Blood Collection,2.0,2022-03-08,202203,T-不計價,True,10
+25,25,DLN1,K80004044,Push Button Blood Collection,1.0,2022-03-08,202203,T-不計價,True,10
+26,26,DLN1,K80004044,Push Button Blood Collection,1.0,2022-04-13,202204,T-不計價,True,15
+27,27,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+28,28,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+29,29,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+30,30,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+31,31,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+32,32,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+33,33,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+34,34,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+35,35,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+36,36,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+37,37,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+38,38,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+39,39,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+40,40,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+41,41,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+42,42,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+43,43,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+44,44,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+45,45,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-10,202205,T-不計價,True,19
+46,46,DLN1,K80004044,Push Button Blood Collection,1.0,2022-05-11,202205,T-不計價,True,19
